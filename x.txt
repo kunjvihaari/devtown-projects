@@ -1,0 +1,6 @@
+  temp=response.temp
+  humidity=response.humidity  
+  wind_speed=response.wind_speed
+   wind_degrees=response.  
+   sunrise=response. 
+    sunset=response. 
